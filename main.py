@@ -14,4 +14,4 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 async def dog(ctx):
     await ctx.send(img)
 
-bot.run("MTEyMTUzNDI5NDUyODEwMjUzMQ.G0_SYw.GtKMRlnMjIJXvLzbHd4qEov_K45FeJXkw6FBfk")
+bot.run("TOKEN")
